@@ -1,0 +1,16 @@
+{
+  "name": "catalogue-rappels-api",
+  "version": "1.0.0",
+  "description": "API rappels sortie SAP - Catalogue Magasin Tereos Nesle",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3",
+    "web-push": "^3.6.6"
+  }
+}
